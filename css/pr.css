@@ -93,11 +93,12 @@
  }
 .videos{
     position: absolute;
+    width: 5%;
     margin-right: auto;
     margin-left: auto;
     left: 0;
-    right: 0; 
-    top: 33em;
+    right: 0;
+    top: 50%;
     text-align: center;
     font-weight: bolder;
     background-color: black;
