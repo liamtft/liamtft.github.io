@@ -1,0 +1,62 @@
+.gui{
+   background-image: url("imgs/gui.png");
+   background-repeat: no-repeat;
+   background-clip: padding-box;
+   background-position: 50% 50%;
+   background-size: 100%;
+   margin: 0 auto;
+   width: 30%;
+   height: 30%;
+   padding-bottom: 55%;
+   text-align: left;
+   position: absolute;
+   margin-left: 35%;
+   }
+.dante{
+   background-image: url("imgs/dante.png");
+   background-repeat: no-repeat;
+   background-clip: padding-box;
+   background-position: 50% 50%;
+     background-size: 100%;
+     margin: 0 auto;
+     width: 30%;
+     height: 30%;
+     padding-bottom: 55%;
+     text-align: right;
+     position: absolute;
+     margin-left: 35%;
+ }
+ .name {
+     color:white;
+     margin-top: 128%;
+     margin-left: 1.5%;
+     font-size: 4em;
+     font-weight: bolder;
+     padding: 0px;
+     margin-bottom:0;
+ }
+ .desc {
+     color:white;
+     margin-top: 1%;
+     margin-left: 1.5%;
+     font-size: 2em;
+     font-weight: 100;
+ }
+ .arrow {
+     position: absolute;
+     margin-top: 1em;
+     margin-left: 1em;
+     text-decoration: none;
+ }
+ .arrow a {
+     color: black;
+ }
+ .records{
+     position: absolute;
+     text-align: left;
+     width: 15%;
+     padding-left: 1%;
+     margin-top: 8.65%;
+     margin-left: 70%;
+     background-color: aliceblue;
+ }
