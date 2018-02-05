@@ -93,17 +93,18 @@
  }
 .videos{
     position: absolute;
-    width: 5%;
+    width: 4.5em;
     margin-right: auto;
     margin-left: auto;
     left: 0;
     right: 0;
-    top: 50%;
+    top: 70%;
     text-align: center;
     font-weight: bolder;
     background-color: black;
     padding: .3em;
     border-radius: .4em;
+    box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
 }
 .videos a{
     text-decoration: none;
