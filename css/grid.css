@@ -1,6 +1,6 @@
 .container {
     display: grid;
-    grid-gap: 5rem;
+    grid-gap: 0rem;
     grid-template-areas:
       "test header side";
     grid-template-columns: 1fr 1fr 1fr;
@@ -15,8 +15,10 @@ aside {
 h4{
     background-color: aliceblue;
     width: 15rem;
-    margin-top: 0px;
+    margin: 0px auto;
     padding: 1rem;
+    margin-bottom: 10px;
+    
 }
 @media (max-width: 768px) {
   .container {
@@ -32,6 +34,7 @@ h4{
 img {
     width: 100%;
     height: auto;
+    margin-bottom: 1rem;
 }
 
     
